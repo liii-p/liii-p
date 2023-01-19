@@ -5,3 +5,5 @@
 https://www.linkedin.com/in/lianna-pyman
 - Or send me an email! liannapyman@gmail.com
 
+[![Lianna's GitHub stats](https://github-readme-stats.vercel.app/api?username=liii-p)](https://github.com/anuraghazra/github-readme-stats)
+
