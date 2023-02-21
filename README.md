@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Lianna!
 - 👀 I’m interested in Front-end development with React!
-- 🌱 I’m currently learning Python and how to build UI with WPF XAML :) as wellas QA and Automation Testing
+- 🌱 I’m currently learning Python and how to build UI with WPF XAML :) as well as QA and Automation Testing
 - 📫 Contact me on LinkedIn!
 https://www.linkedin.com/in/lianna-pyman
 - Or send me an email! liannapyman@gmail.com
