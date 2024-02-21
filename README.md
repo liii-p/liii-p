@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Lianna!
 - 👀 I'm a Quality Assurance & Test Automation Engineer!
-- 🌱 I'm currently going back to my roots and learning Web Development with freeCodeCamp's course "Responsive Web Design"
+- 🌱 Studying Computer Science with a double major in Software Development and Cybersecurity
 - 📫 Contact me on LinkedIn!
 https://www.linkedin.com/in/lianna-pyman
 - Or send me an email! liannapyman@gmail.com
