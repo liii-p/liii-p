@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Lianna!
 - 👀 I'm a Quality Assurance & Test Automation Engineer!
-- 🌱 Studying Computer Science with a double major in Software Development and Cybersecurity
+- 🌱 Currently learning more about testing in React with Vitest and React Testing Library
 - 👩‍💻 My favourite technologies are Python, Java and React with Typescript :)
 - 📫 Contact me on LinkedIn!
 https://www.linkedin.com/in/lianna-pyman
