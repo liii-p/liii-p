@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Lianna!
-- 🎨 I enjoy learning new tech and painting with Bob Ross. There are no mistakes, just happy little accidents (in the context of painting!)
+- 🎨 I enjoy learning new tech, painting with Bob Ross, practicing piano/violin and hitting the gym. There are no mistakes, just happy little accidents (in the context of painting!)
 - 🌱 Currently learning more about testing in React with Vitest and React Testing Library
 - 👩‍💻 My favourite technologies are Python, Java and React with Typescript :)
 - 📫 Contact me on LinkedIn!
