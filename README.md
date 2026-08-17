@@ -5,6 +5,6 @@
 - 📫 Contact me on LinkedIn!
 https://www.linkedin.com/in/lianna-pyman
 - Or send me an email! liannapyman@gmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liii-p&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Lianna's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=liii-p&langs_count=6)](https://wakatime.com/@c0c8788f-4eac-4943-9712-00b6955f1329)
 
