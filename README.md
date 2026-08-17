@@ -6,5 +6,5 @@
 https://www.linkedin.com/in/lianna-pyman
 - Or send me an email! liannapyman@gmail.com
   
-  [![Lianna's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=liii-p&langs_count=6)](https://wakatime.com/@c0c8788f-4eac-4943-9712-00b6955f1329)
+  [![Lianna's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=c0c8788f-4eac-4943-9712-00b6955f1329&langs_count=6)](https://wakatime.com/@c0c8788f-4eac-4943-9712-00b6955f1329)
 
